@@ -1,0 +1,8 @@
+1. An application token is an extra string of characters you insert within an API call if the call is using a ticket or username/password for authentication.
+
+2. What steps can you take in your web apps to keep your data secure? encryption and requiring strong passwords on forms
+
+3. Describe how web servers work. Web servers are the backend that processes network requests via HTTP
+
+4. Which HTTP methods can be mapped to the CRUD acronym that we use when interfacing with APIs/Servers. POST-Creates a new resource. GET-Retrieves a resource. PUT-Updates an existing resource. DELETE-Deletes a resource.
+
